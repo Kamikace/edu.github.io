@@ -1,2 +1,2 @@
 # edu.github.io
-Example project
+Example project from codecademy
